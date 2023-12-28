@@ -134,19 +134,19 @@ author = "authors"
 [[params.social]]
 name = "Twitter"
 #icon = "fa fa-2x fa-twitter"
-icon = "fa fa-brands fa-x-twitter"
+icon = "fa fa-brands fa-twitter"
 weight = 1
 url = "https://twitter.com/3chome_no_n"
 
 [[params.social]]
 name = "Qiita"
-icon = "fa fa-q fa-2x"
+icon = "fa fa-pencil fa-2x"
 weight = 2
 url = "https://qiita.com/mahiro33"
 
 [[params.social]]
 name = "Zenn"
-icon = "fa fa-z fa-2x"
+icon = "fa fa-graduation-cap fa-2x"
 weight = 3
 url = "https://zenn.dev/mahiro33"
 
