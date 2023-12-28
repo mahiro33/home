@@ -1,0 +1,4 @@
+baseURL = 'http://mahiro33.github.io/home'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-coder'
