@@ -138,22 +138,28 @@ weight = 1
 url = "https://twitter.com/3chome_no_n"
 
 [[params.social]]
-name = "Qiita"
-icon = "fa fa-pencil fa-2x"
-weight = 2
-url = "https://qiita.com/mahiro33"
+name = "Discord"
+icon = "fa fa-2x fa-discord"
+weight = 1
+url = "https://discordapp.com/users/691921690376142869"
 
-[[params.social]]
-name = "Zenn"
-icon = "fa fa-graduation-cap fa-2x"
-weight = 3
-url = "https://zenn.dev/mahiro33"
+#[[params.social]]
+#name = "Qiita"
+#icon = "fa fa-pencil fa-2x"
+#weight = 2
+#url = "https://qiita.com/mahiro33"
 
-[[params.social]]
-name = "Hatena"
-icon = "fa fa-2x fa-user-secret"
-weight = 4
-url = "https://shinrinokami.hatenablog.jp/"
+#[[params.social]]
+#name = "Zenn"
+#icon = "fa fa-graduation-cap fa-2x"
+#weight = 3
+#url = "https://zenn.dev/mahiro33"
+
+#[[params.social]]
+#name = "Hatena"
+#icon = "fa fa-2x fa-user-secret"
+#weight = 4
+#url = "https://shinrinokami.hatenablog.jp/"
 
 [[params.social]]
 name = "github"
@@ -196,9 +202,24 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Qiita"
 weight = 2
-url = "posts/"
+url = "https://qiita.com/mahiro33"
+
+[[languages.en.menu.main]]
+name = "Zenn"
+weight = 3
+url = "https://zenn.dev/mahiro33"
+
+[[languages.en.menu.main]]
+name = "Hatena"
+weight = 4
+url = "https://shinrinokami.hatenablog.jp/"
+
+#[[languages.en.menu.main]]
+#name = "Blog"
+#weight = 2
+#url = "posts/"
 
 #[[languages.en.menu.main]]
 #name = "Projects"
