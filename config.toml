@@ -18,7 +18,7 @@ author = "mahiro"
 description = "mahiro's personal website"
 keywords = "blog,Intelligence,Cyber Security"
 #info = ["Full Stack DevOps", "Magician"]
-info = "🌲🐺🌲🐺🌲🐺🌲"
+info = "🐺 🐺 🐺"
 avatarURL = "images/ookamisan_resize.png"
 #gravatar = "john.doe@example.com"
 favicon_16 = "images/ookamisan_resize.png"
@@ -193,30 +193,25 @@ url = "https://github.com/mahiro33"
 #rel = "alternate"
 #type = "application/rss+xml"
 
-#[languages.en]
-#languageName = ":uk:"
+[languages.en]
+languageName = ":uk:"
 
-# Menu links
 [[languages.en.menu.main]]
-#[[menu.main]]
 name = "About"
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-#[[menu.main]]
 name = "Qiita"
 weight = 2
 url = "https://qiita.com/mahiro33"
 
 [[languages.en.menu.main]]
-#[[menu.main]]
 name = "Zenn"
 weight = 3
 url = "https://zenn.dev/mahiro33"
 
 [[languages.en.menu.main]]
-#[[menu.main]]
 name = "Hatena"
 weight = 4
 url = "https://shinrinokami.hatenablog.jp/"
@@ -231,7 +226,7 @@ url = "https://shinrinokami.hatenablog.jp/"
 #weight = 3
 #url = "projects/"
 
-#[[languages.en.menu.main]]
+[[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
 url = "contact/"
