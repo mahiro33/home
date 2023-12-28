@@ -1,5 +1,5 @@
 baseURL = 'http://mahiro33.github.io/home'
-title = "mahiro"
+title = "shinrinokami"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -133,33 +133,33 @@ author = "authors"
 
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+icon = "fa fa-2x fa-x-twitter"
 weight = 1
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/3chome_no_n"
 
 [[params.social]]
 name = "Qiita"
-icon = "fa fa-beer fa-2x"
+icon = "fa fa-q fa-2x"
 weight = 2
-url = "beer/"
+url = "https://qiita.com/mahiro33"
 
 [[params.social]]
 name = "Zenn"
-icon = "fa fa-coffee fa-2x"
+icon = "fa fa-z fa-2x"
 weight = 3
-url = "coffee/"
+url = "https://zenn.dev/mahiro33"
 
 [[params.social]]
 name = "Hatena"
-icon = "fa fa-2x fa-github"
+icon = "fa fa-2x fa-question"
 weight = 4
-url = "https://github.com/johndoe/"
+url = "https://shinrinokami.hatenablog.jp/"
 
 [[params.social]]
-name = "Zenn"
+name = "github"
 icon = "fa fa-2x fa-github"
 weight = 6
-url = "https://github.com/johndoe/"
+url = "https://github.com/mahiro33"
 
 #[[params.social]]
 #name = "Gitlab"
