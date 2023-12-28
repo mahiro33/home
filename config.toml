@@ -197,26 +197,26 @@ url = "https://github.com/mahiro33"
 #languageName = ":uk:"
 
 # Menu links
-#[[languages.en.menu.main]]
-[[menu.main]]
+[[languages.en.menu.main]]
+#[[menu.main]]
 name = "About"
 weight = 1
 url = "about/"
 
-#[[languages.en.menu.main]]
-[[menu.main]]
+[[languages.en.menu.main]]
+#[[menu.main]]
 name = "Qiita"
 weight = 2
 url = "https://qiita.com/mahiro33"
 
-#[[languages.en.menu.main]]
-[[menu.main]]
+[[languages.en.menu.main]]
+#[[menu.main]]
 name = "Zenn"
 weight = 3
 url = "https://zenn.dev/mahiro33"
 
-#[[languages.en.menu.main]]
-[[menu.main]]
+[[languages.en.menu.main]]
+#[[menu.main]]
 name = "Hatena"
 weight = 4
 url = "https://shinrinokami.hatenablog.jp/"
