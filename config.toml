@@ -199,7 +199,7 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "home/about/"
 
 [[languages.en.menu.main]]
 name = "Qiita"
