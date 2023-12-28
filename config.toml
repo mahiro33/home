@@ -133,7 +133,8 @@ author = "authors"
 
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-2x fa-x-twitter"
+icon = "fa-brands fa-x-twitter"
+#icon = "fa fa-2x fa-x-twitter"
 weight = 1
 url = "https://twitter.com/3chome_no_n"
 
