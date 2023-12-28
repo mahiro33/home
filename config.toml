@@ -133,8 +133,7 @@ author = "authors"
 
 [[params.social]]
 name = "Twitter"
-#icon = "fa fa-2x fa-twitter"
-icon = "fa fa-brands fa-twitter"
+icon = "fa fa-2x fa-twitter"
 weight = 1
 url = "https://twitter.com/3chome_no_n"
 
@@ -152,7 +151,7 @@ url = "https://zenn.dev/mahiro33"
 
 [[params.social]]
 name = "Hatena"
-icon = "fa fa-2x fa-question"
+icon = "fa fa-2x fa-user-secret"
 weight = 4
 url = "https://shinrinokami.hatenablog.jp/"
 
