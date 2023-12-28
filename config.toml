@@ -9,16 +9,20 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
-noClasses = false
+style = "github-dark"
+#noClasses = false
 
 [params]
 author = "mahiro"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "mahiro's personal website"
-keywords = "blog,personal"
-info = ["Full Stack DevOps", "Magician"]
+keywords = "blog,Intelligence,Cyber Security"
+#info = ["Full Stack DevOps", "Magician"]
+info = "⭐︎⭐︎⭐︎"
 avatarURL = "images/ookamisan_resize.png"
 #gravatar = "john.doe@example.com"
+favicon_16 = "images/ookamisan_resize.png"
+favicon_32 = "images/ookamisan_resize.png"
 dateFormat = "January 2, 2006"
 since = 2023
 # Git Commit in Footer, uncomment the line below to enable it
@@ -128,42 +132,60 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
-
-[[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
-weight = 3
+weight = 1
 url = "https://twitter.com/johndoe/"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
+name = "Qiita"
+icon = "fa fa-beer fa-2x"
+weight = 2
+url = "beer/"
+
+[[params.social]]
+name = "Zenn"
+icon = "fa fa-coffee fa-2x"
+weight = 3
+url = "coffee/"
+
+[[params.social]]
+name = "Hatena"
+icon = "fa fa-2x fa-github"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://github.com/johndoe/"
 
 [[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
+name = "Zenn"
+icon = "fa fa-2x fa-github"
 weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+url = "https://github.com/johndoe/"
+
+#[[params.social]]
+#name = "Gitlab"
+#icon = "fa fa-2x fa-gitlab"
+#weight = 2
+#url = "https://gitlab.com/johndoe/"
+
+#[[params.social]]
+#name = "LinkedIn"
+#icon = "fa fa-2x fa-linkedin"
+#weight = 4
+#url = "https://www.linkedin.com/in/johndoe/"
+
+#[[params.social]]
+#name = "Medium"
+#icon = "fa fa-2x fa-medium"
+#weight = 5
+#url = "https://medium.com/@johndoe"
+
+#[[params.social]]
+#name = "RSS"
+#icon = "fa fa-2x fa-rss"
+#weight = 6
+#url = "https://myhugosite.com/index.xml"
+#rel = "alternate"
+#type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
