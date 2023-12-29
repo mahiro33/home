@@ -6,17 +6,18 @@ date: 2023-12-29
 ## About Me
 東京にある会社で、サイバーセキュリティの仕事をしています。  
 主にサイバーセキュリティ関連の情報収集をしたり、暗号の勉強をしたりしているので、そのあたりのアウトプットをできればと思っています。  
+  
 なんとなくですが、次のようにプラットフォームを使い分けています。  
 * Qiita: CFTのWriteUpを書く
 * Zenn: 暗号や数学の勉強したことを書く
 * Hatena: 気になるサイバー脅威情報をまとめる
 
-### * Career(?)
+### Career(?)
 * 2020年3月: 某国立大学大学院の工学研究科を修了  
 * 2020年4月: 今いる会社に新卒で入社  
   * ずっとサイバーインテリジェンスをやっています  
 
-### * Certification
+### Certification
 * 2021年2月: GIAC Open Source Intelligence (GIAC)を取得
 * 2021年10月: AWS Certified Solutions Architect - Associateを取得
 * 2022年2月: CISSP試験に合格（現在はAssociate）
