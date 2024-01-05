@@ -160,26 +160,31 @@ name = "About"
 weight = 1
 url = "about/"
 
+[[menu.main]]
+name = "Blog"
+weight = 2
+url = "blog/"
+
 #[[languages.en.menu.main]]
 [[menu.main]]
 name = "Qiita"
-weight = 2
+weight = 3
 url = "https://qiita.com/mahiro33"
 
 #[[languages.en.menu.main]]
 [[menu.main]]
 name = "Zenn"
-weight = 3
+weight = 4
 url = "https://zenn.dev/mahiro33"
 
 #[[languages.en.menu.main]]
 [[menu.main]]
 name = "Hatena"
-weight = 4
+weight = 5
 url = "https://shinrinokami.hatenablog.jp/"
 
 #[[languages.en.menu.main]]
 [[menu.main]]
 name = "Contact me"
-weight = 5
+weight = 6
 url = "contact/"
